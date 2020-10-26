@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DemoAbstractFactory.Models.Commun.Belier" Collapsed="true">
+    <Position X="5.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commun\Belier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoAbstractFactory.Models.Commun.Catapulte" Collapsed="true">
+    <Position X="5.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commun\Catapulte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoAbstractFactory.Models.Egypte.BatimentSiegeEgyptien">
+    <Position X="9" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Egypte\BatimentSiegeEgyptien.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DemoAbstractFactory.Models.Egypte.BelierEgyptien" Collapsed="true">
+    <Position X="4.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Egypte\BelierEgyptien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoAbstractFactory.Models.Egypte.CatapulteEgyptienne" Collapsed="true">
+    <Position X="4.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Egypte\CatapulteEgyptienne.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoAbstractFactory.Models.Grec.BatimentSiegeGrec">
+    <Position X="11.5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Grec\BatimentSiegeGrec.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DemoAbstractFactory.Models.Grec.BelierGrec" Collapsed="true">
+    <Position X="6.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Grec\BelierGrec.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoAbstractFactory.Models.Grec.CatapulteGrecque" Collapsed="true">
+    <Position X="6.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Grec\CatapulteGrecque.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
